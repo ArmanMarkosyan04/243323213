@@ -1,3 +1,3 @@
 # Presentation
 
-**[Slides](Keyword_Recognition_TinyML (1).pptx)**
+**[4_Presentation/Keyword_Recognition_TinyML.pptx](Keyword_Recognition_TinyML (1)ptx)**
