@@ -22,7 +22,7 @@ Approaches or solutions that have been tried before on similar projects.
 
 - **Source 3**: [Title of Source 3]
 
-  - **[Link](https://cdn.techscience.cn/uploads/attached/file/20200918/20200918082530_82174.pdf)**
+  - **[Short-Term Traffic Flow Prediction Based on LSTM-XGBoost Combination Model](https://cdn.techscience.cn/uploads/attached/file/20200918/20200918082530_82174.pdf)**
   - **Objective**:
   - **Methods**:
   - **Outcomes**:
